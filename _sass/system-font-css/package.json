@@ -39,7 +39,7 @@
     }
   ],
   "dependencies": {
-    "cpr": "^2.2.0"
+    "cpr": "^3.0.1"
   },
   "deprecated": false,
   "description": "Use the native system font of the OS running the browser",
